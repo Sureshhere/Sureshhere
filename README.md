@@ -1,12 +1,14 @@
 [![MasterHead](https://art.pixilart.com/sr2783f859fa2e9.gif)](https://sureshchoudhary.io)
 <h1 align="center">Hi 👋, I'm Suresh Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Front-end Web Developer💻</h3>
 <img width='450' height='300' align='right' src="https://art.pixilart.com/sr2dcc16ab9aba6.gif" alt="profile" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshhere&label=Profile%20views&color=0e75b6&style=flat" alt="sureshhere" /> </p>
 
 - 🔭 I’m currently working on [Weatherify](https://weatherifyonline.vercel.app/)
 
 - 🌱 I’m currently learning **Javascript**
+
+- 🤝 I’m looking to collaborate on **frond-end projects**
 
 - 📫 How to reach me **sureshchoudharytrue@gmail.com**
 
