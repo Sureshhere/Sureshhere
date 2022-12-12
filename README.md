@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🤝 I’m looking to collaborate on **frond-end projects**
+- 🤝 I’m looking to collaborate on **front-end projects**
 
 - 📫 How to reach me **sureshchoudharytrue@gmail.com**
 
