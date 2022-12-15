@@ -23,6 +23,9 @@
 <br><br>
 
 
+[![Sureshhere's github stats](https://github-readme-stats.vercel.app/api?username=Sureshhere&theme=gruvbox)](https://github.com/Sureshhere/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshhere&layout=compact&theme=gruvbox)](https://github.com/Sureshhere/github-readme-stats)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sureshhere&show_icons=true&locale=en&layout=compact" alt="sureshhere" /></p>
 <br><br><br><br><br><br><br>
