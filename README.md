@@ -23,7 +23,7 @@
 <br><br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aks-samanta&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=sureshhere&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
 <br>
 
