@@ -9,17 +9,39 @@
 ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=sureshhere&count_private=true&show_icons=true&theme=react" /><img width="425" src="https://streak-stats.demolab.com/?user=sureshhere&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshhere&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/sureshhere/github-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sureshhere/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sureshhere/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
-  <img alt="my overview" src="https://github.com/sureshhere/github-stats.github.io/blob/master/generated/overview.svg">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sureshhere/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sureshhere/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
-  <img alt="my languages" src="https://github.com/sureshhere/github-stats.github.io/blob/master/generated/languages.svg">
-</picture>
+### :hammer_and_wrench: Languages and Tools 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+</div>
 
-</a>
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/sureshhere/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=sureshchoudharytrue@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+</div>
+
+---
+
+
+
+### 👀 Visitor Info
+<a href="https://u8views.com/github/Sureshhere"><img src="https://u8views.com/api/v1/github/profiles/97615073/views/day-week-month-total-count.svg"></a>
+
