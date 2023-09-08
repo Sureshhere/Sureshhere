@@ -39,7 +39,7 @@
 </div>
 
 ---
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?sureshhere=ffflabs)](https://github.com/sureshhere/github-readme-stats)
 
 
 ### 👀 Visitor Info
