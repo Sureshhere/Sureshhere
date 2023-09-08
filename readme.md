@@ -39,8 +39,6 @@
 </div>
 
 ---
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?sureshhere=ffflabs)](https://github.com/sureshhere/github-readme-stats)
-
 
 ### 👀 Visitor Info
 <a href="https://u8views.com/github/Sureshhere"><img src="https://u8views.com/api/v1/github/profiles/97615073/views/day-week-month-total-count.svg"></a>
