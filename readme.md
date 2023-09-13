@@ -33,7 +33,7 @@
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/sureshhere/">
+    <a href="https://www.linkedin.com/in/sureshhere">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=sureshchoudharytrue@gmail.com">
