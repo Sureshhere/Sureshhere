@@ -9,15 +9,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Suresh%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
-<br> <br>
+<br>
 
-<center>
-  <span>🌐 Portfolio</span>
-  <span><a href="https://sureshchoudhary.vercel.app/">sureshchoudhary.vercel.app</a></span>
-  <span>📄 Resume</span>
-  <span><a href="https://drive.google.com/file/d/1dGXJ6bh6l8A6DuJZ9E3EF9tzeE40Qu7Y/view">My Resume</a></span>
-   
-</center>
+<div align="center">
+  <span>🌐 Portfolio</span><br>
+  <span><a href="https://sureshchoudhary.vercel.app/">sureshchoudhary.vercel.app</a></span><br>
+  <span>📄 Resume</span><br>
+  <span><a href="https://drive.google.com/file/d/1dGXJ6bh6l8A6DuJZ9E3EF9tzeE40Qu7Y/view">My Resume</a></span>   
+</div>
 ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=sureshhere&count_private=true&show_icons=true&theme=react" /><img width="425" src="https://streak-stats.demolab.com/?user=sureshhere&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshhere&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
