@@ -13,7 +13,7 @@
 
 <div align="center">
   <span>🌐 Portfolio</span><br>
-  <span><a href="https://sureshchoudhary.vercel.app/">sureshchoudhary.vercel.app</a></span><br>
+  <span><a href="https://sureshchoudhary.vercel.app/">sureshchoudhary.vercel.app</a></span><br><br>
   <span>📄 Resume</span><br>
   <span><a href="https://drive.google.com/file/d/1dGXJ6bh6l8A6DuJZ9E3EF9tzeE40Qu7Y/view">My Resume</a></span>   
 </div>
