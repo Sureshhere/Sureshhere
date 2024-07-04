@@ -1,11 +1,10 @@
+<div style="background-color: #1a1a1a; color: #eaeaea; padding: 20px; border-radius: 10px;">
 
 <div id="header" align="center">
-  
-  <!-- <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/> -->
-  <img src=https://media.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif width="200"/>
+  <img src="https://media.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif" width="200"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Suresh Choudhary</h2>
+<h2 align="center" style="color: #eaeaea;">Hi 👋, I'm Suresh Choudhary</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Suresh%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
@@ -13,9 +12,9 @@
 
 <div align="center">
   <span>🌐 Portfolio</span><br>
-  <span><a href="https://sureshchoudhary.vercel.app/">sureshchoudhary.vercel.app</a></span><br><br>
+  <span><a href="https://sureshchoudhary.vercel.app/" style="color: #61dafb;">sureshchoudhary.vercel.app</a></span><br><br>
   <span>📄 Resume</span><br>
-  <span><a target="_blank" href="https://drive.google.com/file/d/1dGXJ6bh6l8A6DuJZ9E3EF9tzeE40Qu7Y/view">My Resume</a></span>   
+  <span><a target="_blank" href="https://drive.google.com/file/d/1dGXJ6bh6l8A6DuJZ9E3EF9tzeE40Qu7Y/view" style="color: #61dafb;">My Resume</a></span>   
 </div>
 
 ### 🔥 My Stats 
@@ -24,7 +23,6 @@
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
-  
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
@@ -49,10 +47,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sureshhchoudharyy/)
 </div>
 
----
-
 ### 👀 Visitor Info
 <a href="https://u8views.com/github/Sureshhere"><img src="https://u8views.com/api/v1/github/profiles/97615073/views/day-week-month-total-count.svg"></a>
 
- ![Snake animation](https://github.com/Sureshhere/Sureshhere/blob/output/github-contribution-grid-snake-dark.svg)
- 
+![Snake animation](https://github.com/Sureshhere/Sureshhere/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
