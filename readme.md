@@ -52,12 +52,12 @@
 
  ![Snake animation](https://github.com/Sureshhere/Sureshhere/blob/output/github-contribution-grid-snake.svg) 
 
+
+![Suresh's GitHub activity graph](https://raw.githubusercontent.com/sureshhere/sureshhere/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+
 <!--
-
-![Suresh's GitHub activity graph](https://raw.githubusercontent.com/sureshhere/sureshhere/output/github-contribution-grid-snake-cyan-dark.svg#gh-dark-mode-only)
-
-
-
 ![Suresh's GitHub activity graph](https://raw.githubusercontent.com/sureshhere/sureshhere/output/github-contribution-grid-snake-cyan-light.svg#gh-light-mode-only)
 -->
 
