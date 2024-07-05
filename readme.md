@@ -50,6 +50,15 @@
 ### 👀 Visitor Info
 <a href="https://u8views.com/github/Sureshhere"><img src="https://u8views.com/api/v1/github/profiles/97615073/views/day-week-month-total-count.svg"></a>
 
-![Snake animation](https://github.com/Sureshhere/Sureshhere/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Sureshhere/Sureshhere/blob/output/github-contribution-grid-snake.svg) -->
+
+
+
+![Suresh's GitHub activity graph](https://raw.githubusercontent.com/sureshhere/sureshhere/output/github-contribution-grid-snake-cyan-dark.svg#gh-dark-mode-only)
+
+
+
+![Suresh's GitHub activity graph](https://raw.githubusercontent.com/sureshhere/sureshhere/output/github-contribution-grid-snake-cyan-light.svg#gh-light-mode-only)
+
 
 </div>
