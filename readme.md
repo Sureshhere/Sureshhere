@@ -6,7 +6,7 @@
 
 <h2 align="center" style="color: #eaeaea;">Hi 👋, I'm Suresh Choudhary</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Suresh%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 <br>
 
