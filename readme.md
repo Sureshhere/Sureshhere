@@ -14,7 +14,7 @@
   <span>🌐 Portfolio</span><br>
   <span><a href="https://sureshchoudhary.vercel.app/" style="color: #61dafb;">sureshchoudhary.vercel.app</a></span><br><br>
   <span>📄 Resume</span><br>
-  <span><a target="_blank" href="https://drive.google.com/file/d/1dGXJ6bh6l8A6DuJZ9E3EF9tzeE40Qu7Y/view" style="color: #61dafb;">My Resume</a></span>   
+  <span><a target="_blank" href="https://drive.google.com/file/d/1nh7lG_o7tLagmUjs9J_Ge-sp47lizj_U/view?usp=sharing" style="color: #61dafb;">My Resume</a></span>   
 </div>
 
 ### 🔥 My Stats 
