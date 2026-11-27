@@ -19,22 +19,41 @@
 
 ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=sureshhere&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=sureshhere&theme=react" />
+
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshhere&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
-### :hammer_and_wrench: Languages and Tools 
+### :hammer_and_wrench: Languages and Tools
 <div>
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/64/github.png" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img width="24" height="24" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform / HCL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="Vercel" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🔗 Social info
@@ -51,12 +70,9 @@
 ### 👀 Visitor Info
 <a href="https://u8views.com/github/Sureshhere"><img src="https://u8views.com/api/v1/github/profiles/97615073/views/day-week-month-total-count.svg"></a>
 
- ![Snake animation](https://github.com/Sureshhere/Sureshhere/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) 
-
+![Snake animation](https://github.com/Sureshhere/Sureshhere/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![Suresh's GitHub activity graph](https://raw.githubusercontent.com/sureshhere/sureshhere/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
 
 <!--
 ![Suresh's GitHub activity graph](https://raw.githubusercontent.com/sureshhere/sureshhere/output/github-contribution-grid-snake-cyan-light.svg#gh-light-mode-only)
